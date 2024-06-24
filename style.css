@@ -1,0 +1,11 @@
+.
+
+#pressNavbar {
+    color: #092635;
+    font-family: Inter;
+    font-size: 1.875rem;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 150%; /* 2.8125rem */
+    letter-spacing: -0.01875rem;
+}
